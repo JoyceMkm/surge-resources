@@ -53,6 +53,10 @@
     {
       "name": "DataWave",
       "url": "https://raw.githubusercontent.com/JoyceBupt/surge-resources/main/icons/datawave.png"
+    },
+    {
+      "name": "High End Network",
+      "url": "https://raw.githubusercontent.com/JoyceBupt/surge-resources/main/icons/highend-network.png"
     }
   ]
 }

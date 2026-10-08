@@ -199,6 +199,22 @@
       "source_sha256": "15595744e6bc21951dae03c2e277ce5063539843bc93e1a34bad8d4ce1c5eefc",
       "retrieved_on": "2026-09-29",
       "processing": "Website favicon converted to PNG with macOS sips; original dimensions preserved"
+    },
+    {
+      "id": "highend-network",
+      "name": "High End Network",
+      "path": "icons/highend-network.png",
+      "url": "https://raw.githubusercontent.com/JoyceBupt/surge-resources/main/icons/highend-network.png",
+      "width": 640,
+      "height": 640,
+      "sha256": "517f52553309ce190a2fda277dcc79906d4b8f0fdecaae008c59278d9a8d6623",
+      "source_file": "sources/highend-network.jpg",
+      "source_page": null,
+      "source_url": null,
+      "source_note": "User-provided High End Network logo for the HiNet policy group",
+      "source_sha256": "7bf0e101c1922140342557105378b4a122132d4e140619bca87d7253b49a9956",
+      "retrieved_on": "2026-10-08",
+      "processing": "JPEG converted to PNG with macOS sips; no crop or retouch"
     }
   ]
 }
