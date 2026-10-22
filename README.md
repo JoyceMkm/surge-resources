@@ -15,16 +15,16 @@
 在 Surge 图标选择器支持的图标集导入入口添加：
 
 ```text
-https://raw.githubusercontent.com/JoyceBupt/surge-resources/main/surge-icons.json
+https://raw.githubusercontent.com/JoyceMkm/surge-resources/main/surge-icons.json
 ```
 
 也可以直接修改策略组的 `icon-url`。以下片段只展示图标参数，请保留已有组类型、成员和其他设置：
 
 ```ini
-icon-url=https://raw.githubusercontent.com/JoyceBupt/surge-resources/main/icons/boil.png
-icon-url=https://raw.githubusercontent.com/JoyceBupt/surge-resources/main/icons/kddi.png
-icon-url=https://raw.githubusercontent.com/JoyceBupt/surge-resources/main/icons/att.png
-icon-url=https://raw.githubusercontent.com/JoyceBupt/surge-resources/main/icons/fxtransit.png
+icon-url=https://raw.githubusercontent.com/JoyceMkm/surge-resources/main/icons/boil.png
+icon-url=https://raw.githubusercontent.com/JoyceMkm/surge-resources/main/icons/kddi.png
+icon-url=https://raw.githubusercontent.com/JoyceMkm/surge-resources/main/icons/att.png
+icon-url=https://raw.githubusercontent.com/JoyceMkm/surge-resources/main/icons/fxtransit.png
 ```
 
 ## 文件结构

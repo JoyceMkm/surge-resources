@@ -8,7 +8,7 @@ import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-BASE = "https://raw.githubusercontent.com/JoyceBupt/surge-resources/main/"
+BASE = "https://raw.githubusercontent.com/JoyceMkm/surge-resources/main/"
 
 
 def require(condition, message):
