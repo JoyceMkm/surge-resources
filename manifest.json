@@ -215,6 +215,21 @@
       "source_sha256": "7bf0e101c1922140342557105378b4a122132d4e140619bca87d7253b49a9956",
       "retrieved_on": "2026-10-08",
       "processing": "JPEG converted to PNG with macOS sips; no crop or retouch"
+    },
+    {
+      "id": "misaka",
+      "name": "Misaka",
+      "path": "icons/misaka.png",
+      "url": "https://raw.githubusercontent.com/JoyceMkm/surge-resources/main/icons/misaka.png",
+      "width": 512,
+      "height": 512,
+      "sha256": "2381fd032301f3e9bd47375e38f52cf8f52deba938e6ed0a858c5b92e7f6c32e",
+      "source_file": "sources/misaka.svg",
+      "source_page": "https://app.misaka.io/login",
+      "source_url": "https://s.e15f.net/immutable/v2/assets/logo.XiASzndU.svg",
+      "source_sha256": "4dc2e5841a43f5f0fa6ab983ae4cf89642d2b24f96844bce00f670529289d53b",
+      "retrieved_on": "2026-10-29",
+      "processing": "Official SVG rasterized proportionally, centered on a 512x512 white background using sharp"
     }
   ]
 }
