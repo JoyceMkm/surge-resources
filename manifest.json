@@ -230,6 +230,21 @@
       "source_sha256": "4dc2e5841a43f5f0fa6ab983ae4cf89642d2b24f96844bce00f670529289d53b",
       "retrieved_on": "2026-10-29",
       "processing": "Official SVG rasterized proportionally, centered on a 512x512 white background using sharp"
+    },
+    {
+      "id": "akari",
+      "name": "Akari Networks",
+      "path": "icons/akari.png",
+      "url": "https://raw.githubusercontent.com/JoyceMkm/surge-resources/main/icons/akari.png",
+      "width": 192,
+      "height": 192,
+      "sha256": "f2faf6bf0d48fb1c8d7976a7ed2bfbee9cdea521303965be5d7ed1d02b8143d6",
+      "source_file": "sources/akari.png",
+      "source_page": "https://akari.hk/",
+      "source_url": "https://akari.hk/images/favicon/192x192.png",
+      "source_sha256": "f2faf6bf0d48fb1c8d7976a7ed2bfbee9cdea521303965be5d7ed1d02b8143d6",
+      "retrieved_on": "2026-10-29",
+      "processing": "Official 192x192 PNG, unchanged"
     }
   ]
 }
